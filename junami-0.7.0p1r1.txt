@@ -1,0 +1,4 @@
+20161106, xing
+
+download junami-0.7.0p1r1.jar from 
+https://sourceforge.net/projects/dot718/

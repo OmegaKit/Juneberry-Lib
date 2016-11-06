@@ -1,0 +1,7 @@
+20131204, xing
+
+vicario.jar taken from mipl (select d) that was generated on 20131203.
+
+20121025, xing
+
+vicario.jar taken from mipl that was generated on 20120712.

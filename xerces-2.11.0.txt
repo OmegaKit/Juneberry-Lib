@@ -1,0 +1,7 @@
+20121129, xing
+
+All xerces-2.11.0-*.jar are from Xerces-J-bin.2.11.0.tar.gz
+wget http://mirror.cogentco.com/pub/apache//xerces/j/binaries/Xerces-J-bin.2.11.0.tar.gz
+
+md5sum of Xerces-J-bin.2.11.0.tar.gz is
+29d731e0ae57eb3f2e09af6594bc2515
